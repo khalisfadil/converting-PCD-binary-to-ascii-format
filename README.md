@@ -16,7 +16,7 @@ cloud = pypcd.PointCloud.from_path("2021_09_27_11_20_41_179.pcd")
 
 ## save file
 
-the file is save as `new_cloud.pcd`
+the file is saved as `new_cloud.pcd` after running the `test.py`
 
 ## open file
 
