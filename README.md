@@ -2,7 +2,8 @@
 # PCD-file converter
 
 this code suppose to convert the PCD file that is in binary format and cannot be open in pcl-viewer. 
-go to thew `test.py` and put your file name in the 
+
+go to the `test.py` and put your file name in the 
 ```bash
  cloud = pypcd.PointCloud.from_path("your-filename.pcd")
 ``` 
