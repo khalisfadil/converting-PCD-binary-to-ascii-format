@@ -13,7 +13,7 @@ like example,
 cloud = pypcd.PointCloud.from_path("2021_09_27_11_20_41_179.pcd")
 ```
 
-##installation
+## Installation
 
 For Linux OS
 
