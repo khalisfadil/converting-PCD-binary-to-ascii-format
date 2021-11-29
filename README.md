@@ -13,6 +13,13 @@ like example,
 cloud = pypcd.PointCloud.from_path("2021_09_27_11_20_41_179.pcd")
 ```
 
+##installation
+
+For Linux OS
+
+```bash
+python -m pip install --user git+https://github.com/DanielPollithy/pypcd.git
+```
 
 ## save file
 
@@ -27,3 +34,7 @@ to open the converted file by using `pcl-viewer` by installing the `pcl-tools` p
 ```bash
 pcl_viewer -multiview 1 <pcd_filepath>
 ```
+
+## Additional information and tutorial
+
+https://blog.pollithy.com/python/numpy/pointcloud/tutorial-pypcd
