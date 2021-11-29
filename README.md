@@ -21,6 +21,7 @@ the file is saved as `new_cloud.pcd` after running the `test.py`
 ## open file
 
 For Linux OS
+
 to open the converted file by using `pcl-viewer` by installing the `pcl-tools` package.
 
 ```bash
