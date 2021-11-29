@@ -1,7 +1,7 @@
 # converting-PCD-binary-to-ascii-format
 # PCD-file converter
 
-this code suppose to convert the PCD file that is in binary format and cannot be open in pcl-viewer. 
+this algorithm suppose to convert the PCD file that is in binary format into ASCII format so that it can be vizualize in pcl-viewer. 
 
 go to the `test.py` and put your file name in the 
 ```bash
